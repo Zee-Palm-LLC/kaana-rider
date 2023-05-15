@@ -1,16 +1,11 @@
-# kaana_rider
+# Zee Palm UI Code
 
-A new Flutter project.
+Kaana Rider App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes completely functional Kaana Rider App UI with all the screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/kaana-rider/assets/128903428/08d8188c-00f3-41b0-b368-dcd2ff102dee" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/kaana-rider/assets/128903428/d51fd525-a55a-4ffd-b191-cad19dd23ad3" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/kaana-rider/assets/128903428/34f9cac7-52ea-46c2-97ef-1c7d34e375e4" width="200" height="400" />
